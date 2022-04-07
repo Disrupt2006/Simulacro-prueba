@@ -5,6 +5,9 @@ using UnityEngine;
 public class ej1 : MonoBehaviour
 {
 
+    //Crea un programa que permita ingresar por Inspector dos valores enteros y responda 
+    //si son iguales o no lo son.
+
     public int num1;
     public int num2;
 
